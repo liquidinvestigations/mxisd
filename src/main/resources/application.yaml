@@ -132,6 +132,9 @@ netiq:
 firebase:
   enabled: false
 
+liquid:
+  enabled: false
+
 
 sql:
   enabled: false
